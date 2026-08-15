@@ -12,7 +12,7 @@ series: tissue-bot
 excerpt: "How we built the tissue-bot data layer — async GitHub REST client, SQLite schema, and a CLI for collecting scientific Python repos."
 ---
 
-The first goal for [tissue-bot](https://github.com/kurtc3b3/tissue-bot) was straightforward: **pull GitHub repository and issue data into a local store** so we could query it, analyze it, and eventually hand it to agents.
+The first goal for [tissue-bot](https://github.com/ali-cabukel/tissue-bot) was straightforward: **pull GitHub repository and issue data into a local store** so we could query it, analyze it, and eventually hand it to agents.
 
 We started with shell scripts and the `gh` CLI, then moved the core logic into a Python package managed with **uv**.
 

@@ -1,8 +1,8 @@
-# kurtc3b3.github.io
+# ali-cabukel.github.io
 
 Personal blog and build log, powered by [Jekyll](https://jekyllrb.com/) and the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) theme.
 
-Live at **https://kurtc3b3.github.io**
+Live at **https://ali-cabukel.github.io**
 
 ## Local preview
 
@@ -18,4 +18,4 @@ Push to `main`. Enable Pages under **Settings → Pages → Deploy from branch �
 
 ## tissue-bot series
 
-Eight posts documenting the [tissue-bot](https://github.com/kurtc3b3/tissue-bot) project from backend through Docker.
+Eight posts documenting the [tissue-bot](https://github.com/ali-cabukel/tissue-bot) project from backend through Docker.

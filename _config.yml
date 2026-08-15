@@ -1,13 +1,13 @@
-title: kurtc3b3
+title: ali-cabukel
 title_separator: "|"
 subtitle: Notes on building agentic developer tools
 description: >-
   A build log for projects like tissue-bot — GitHub data collection,
   FastAPI backends, Next.js frontends, LangGraph agents, and the
   infrastructure that ties them together.
-url: "https://kurtc3b3.github.io"
+url: "https://ali-cabukel.github.io"
 baseurl: ""
-repository: "kurtc3b3/kurtc3b3.github.io"
+repository: "ali-cabukel/ali-cabukel.github.io"
 
 remote_theme: mmistakes/minimal-mistakes@4.26.2
 minimal_mistakes_skin: "air"
@@ -49,25 +49,25 @@ defaults:
       toc_sticky: true
 
 author:
-  name: kurtc3b3
+  name: ali-cabukel
   bio: "Building tissue-bot and related agentic tooling."
   location: ""
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/kurtc3b3"
+      url: "https://github.com/ali-cabukel"
     - label: "tissue-bot"
       icon: "fas fa-fw fa-code-branch"
-      url: "https://github.com/kurtc3b3/tissue-bot"
+      url: "https://github.com/ali-cabukel/tissue-bot"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/kurtc3b3"
+      url: "https://github.com/ali-cabukel"
     - label: "tissue-bot"
       icon: "fas fa-fw fa-code-branch"
-      url: "https://github.com/kurtc3b3/tissue-bot"
+      url: "https://github.com/ali-cabukel/tissue-bot"
 
 include:
   - _pages
