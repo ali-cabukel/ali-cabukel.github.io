@@ -1,6 +1,6 @@
 # ali-cabukel.github.io
 
-Personal blog and build log, powered by [Jekyll](https://jekyllrb.com/) and the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) theme.
+Personal site (profile + blog), powered by [Jekyll](https://jekyllrb.com/) and the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) theme.
 
 Live at **https://ali-cabukel.github.io**
 
@@ -15,6 +15,12 @@ bundle exec jekyll serve
 ## GitHub Pages
 
 Push to `main`. Enable Pages under **Settings → Pages → Deploy from branch → main**.
+
+## Structure
+
+- `index.md` — profile home page (experience, projects, skills, interests)
+- `_pages/blog.md` — all posts at `/blog/`
+- `_posts/` — blog posts (URLs unchanged)
 
 ## tissue-bot series
 

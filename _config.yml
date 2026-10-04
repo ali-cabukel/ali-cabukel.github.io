@@ -1,10 +1,9 @@
-title: ali-cabukel
+title: Ali Cabukel
 title_separator: "|"
-subtitle: Notes on building agentic developer tools
+subtitle: Lead AI Engineer · production LLM systems, agents and ML platforms
 description: >-
-  A build log for projects like tissue-bot — GitHub data collection,
-  FastAPI backends, Next.js frontends, LangGraph agents, and the
-  infrastructure that ties them together.
+  Ali Cabukel — Lead AI Engineer in London. Experience, projects, open
+  source work and build logs on GenAI, agents, MLOps and real-world data apps.
 url: "https://ali-cabukel.github.io"
 baseurl: ""
 repository: "ali-cabukel/ali-cabukel.github.io"
@@ -17,13 +16,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-include-cache
-  - jekyll-paginate
 
-paginate: 5
-paginate_path: /page:num/
 
 locale: "en-US"
-timezone: America/New_York
+timezone: Europe/London
 
 markdown: kramdown
 kramdown:
@@ -49,19 +45,26 @@ defaults:
       toc_sticky: true
 
 author:
-  name: ali-cabukel
-  bio: "Building tissue-bot and related agentic tooling."
-  location: ""
+  name: Ali Cabukel
+  # avatar: "/assets/images/avatar.jpg"  # TODO: add a photo and uncomment
+  bio: "Lead AI Engineer in London. ML and GenAI at Vodafone Group."
+  location: "London, UK"
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/alicabukel"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ali-cabukel"
-    - label: "tissue-bot"
-      icon: "fas fa-fw fa-code-branch"
-      url: "https://github.com/ali-cabukel/tissue-bot"
+    - label: "kayrazen.io"
+      icon: "fas fa-fw fa-link"
+      url: "https://kayrazen.io"
 
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/alicabukel"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ali-cabukel"
