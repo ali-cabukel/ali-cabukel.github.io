@@ -82,8 +82,10 @@ Bilingual (Turkish + English) apps and games I build and run myself under **[kay
 | --- | --- |
 | **[Deprem](https://deprem.kayrazen.io)** | Latest earthquakes in Türkiye and worldwide — merges AFAD, Kandilli, EMSC and USGS reports into one feed, always showing source and time |
 | **[Hava](https://hava.kayrazen.io)** | "Should I run today?" — best running hours, air quality and pollen for 81 Turkish provinces and 39 world cities |
+| **[Enflasyon](https://enflasyon.kayrazen.io)** | Inflation, rent and money calculators on official TÜİK data — the legal rent increase cap for each renewal month, what old money is worth today, and salary vs inflation |
+| **[Fiyat](https://fiyat.kayrazen.io)** | Fuel prices for all 81 provinces from EPDK filings — benzin, motorin and LPG by brand, price-change history and a trip cost calculator |
 | **[Tatil](https://tatil.kayrazen.io)** | Turkish public holiday planner — the longest break for the least leave, with eves and bridge days |
-| **[narsync.io](https://narsync.io)** | The engine room: FastAPI + SQLite pipelines that poll public data sources and serve the apps through `api.narsync.io` |
+| **[narsync.io](https://narsync.io)** | The engine room: FastAPI + SQLite pipelines that poll public data sources (AFAD, Open-Meteo, TCMB EVDS, EPDK…) and serve the apps through `api.narsync.io` |
 
 **Browser games**
 
@@ -168,7 +170,7 @@ Everything below is on [GitHub](https://github.com/ali-cabukel).
 
 <!-- TODO: edit freely — these are guesses based on your projects. -->
 
-- **Public data as public good** — earthquakes, weather, air quality, elections and trade data turned into things people can actually use.
+- **Public data as public good** — earthquakes, weather, air quality, inflation, fuel prices, elections and trade data turned into things people can actually use.
 - **Making LLMs reliable** — evaluation, guardrails, and the quiet failure modes that only show up in production.
 - **Markets and economics** — UK macro policy, trade networks, market microstructure.
 
