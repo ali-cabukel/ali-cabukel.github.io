@@ -96,6 +96,7 @@ Bilingual (Turkish + English) apps and games I build and run myself under **[kay
 | **[Tahsilat](https://tahsilat.kayrazen.io)** | Track friends' IOUs with a little math and a lot of humour |
 | **[Kargo](https://kargo.kayrazen.io)** | Deliver parcels door to door in a cosy town and collect tips |
 | **[Dino Zıp](https://dinazor.kayrazen.io)** | Jump over cacti with a chubby dino, collect cookies and hit rainbow mode |
+| **[Minik Usta](https://minikusta.kayrazen.io)** | Build a house floor by floor, decorate it and sell it to cute buyers — a browser game for kids |
 
 ### Open source
 
